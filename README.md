@@ -1,4 +1,4 @@
-# 📋 Automação de Intake de Solicitações — Google Forms + Sheets + Apps Script
+# 📋 Automação de Solicitações — Google Forms + Sheets + Apps Script
 
 > Parte 1 de 2 do projeto "Gestão de demandas do time de dados" na iRede.
 > Parte 2 (dashboard): [link do outro repositório]
